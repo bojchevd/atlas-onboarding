@@ -1,0 +1,5 @@
+@Atlas.Onboarding_HostAddress = http://localhost:5287
+
+GET {{Atlas.Onboarding_HostAddress}}/health
+
+###
